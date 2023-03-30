@@ -8,6 +8,10 @@
 ![image](https://img.shields.io/badge/Python-yellow?logo=python&?style=flat)
 ![image](https://img.shields.io/badge/Pytorch-blue?logo=pytorch&?style=flat)
 ![image](https://img.shields.io/badge/Numpy-blue?logo=numpy&?style=flat)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssac_sim)](https://solved.ac/ssac_sim/)
+
+
 <!--
 **SSacSim/ssacsim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
