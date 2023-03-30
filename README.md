@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![image](https://user-images.githubusercontent.com/95699467/228850737-28ea5c0f-c8d2-42a9-bd7d-134c8ff43662.png)](https://ssacsim.notion.site/9c6b119caa4b4cdb97bcf1a4c3aaab3d)
 [![image](https://user-images.githubusercontent.com/95699467/228851566-4132d328-8479-431b-9541-031f958206f3.png)](https://sims-solve.tistory.com/)
-[![image](https://img.shields.io/badge/PORTFOLIO-black?logo=Notion&?style=flat)][(https://sims-solve.tistory.com/](https://ssacsim.notion.site/9c6b119caa4b4cdb97bcf1a4c3aaab3d))
+[![image](https://img.shields.io/badge/PORTFOLIO-black?logo=Notion&?style=flat)](https://sims-solve.tistory.com/)
 
 <!--
 **SSacSim/ssacsim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
