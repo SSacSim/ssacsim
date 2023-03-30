@@ -1,16 +1,17 @@
-### Hi there 👋
-#### Visit My Blog & Portfolio !
+<div align=center>
+
+## Visit My Blog & Portfolio !
 [![image](https://user-images.githubusercontent.com/95699467/228851566-4132d328-8479-431b-9541-031f958206f3.png)](https://sims-solve.tistory.com/)
 [![image](https://img.shields.io/badge/PORTFOLIO-black?logo=Notion&?style=flat)](https://ssacsim.notion.site/9c6b119caa4b4cdb97bcf1a4c3aaab3d)
 
-## Tech Stack
+## 🛠 My Tech Stack
 
 ![image](https://img.shields.io/badge/Python-yellow?logo=python&?style=flat)
 ![image](https://img.shields.io/badge/Pytorch-blue?logo=pytorch&?style=flat)
 ![image](https://img.shields.io/badge/Numpy-blue?logo=numpy&?style=flat)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssac_sim)](https://solved.ac/ssac_sim/)
-
+</div>
 
 <!--
 **SSacSim/ssacsim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
