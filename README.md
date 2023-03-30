@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![image](https://user-images.githubusercontent.com/95699467/228849720-0c738984-2765-4469-b16f-a89b67e12da0.png)](http://www.naver.com/)
+[![image](https://user-images.githubusercontent.com/95699467/228850737-28ea5c0f-c8d2-42a9-bd7d-134c8ff43662.png)]([http://www.naver.com/](https://ssacsim.notion.site/9c6b119caa4b4cdb97bcf1a4c3aaab3d))
+
 
 <!--
 **SSacSim/ssacsim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
