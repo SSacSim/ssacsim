@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![image](https://user-images.githubusercontent.com/95699467/228850737-28ea5c0f-c8d2-42a9-bd7d-134c8ff43662.png)]([http://www.naver.com/](https://ssacsim.notion.site/9c6b119caa4b4cdb97bcf1a4c3aaab3d))
+[![image](https://user-images.githubusercontent.com/95699467/228850737-28ea5c0f-c8d2-42a9-bd7d-134c8ff43662.png)](https://ssacsim.notion.site/9c6b119caa4b4cdb97bcf1a4c3aaab3d)
 
 
 <!--
